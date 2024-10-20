@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCarteVisit</string>
+
+    <string name="shopping_cart_content_desc">Carte</string>
+    <string name="localisation_content_desc">Localisation</string>
+    <string name="email_content_desc">Email</string>
+    <string name="call_content_desc">Telephone</string>
+</resources>
